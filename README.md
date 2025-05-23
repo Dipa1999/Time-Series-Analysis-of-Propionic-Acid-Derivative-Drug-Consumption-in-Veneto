@@ -7,8 +7,9 @@ Time series analysis of propionic acid NSAID consumption in Veneto (2016–2023)
 The data used in this project were obtained from the [Agenzia Italiana del Farmaco (AIFA)](https://www.aifa.gov.it/) open data portal.  
 According to AIFA's open data policy, the data are freely reusable for any purpose, provided that the source is appropriately cited.
 
-Source: AIFA - www.aifa.gov.it
-
+Source: 
+- AIFA: www.aifa.gov.it
+- Data:www.aifa.gov.it/spesa-e-consumo-relativi-al-flusso-della-farmaceutica-convenzionata-e-degli-acquisti-diretti
 
 ## License
 
