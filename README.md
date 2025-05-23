@@ -9,7 +9,7 @@ According to AIFA's open data policy, the data are freely reusable for any purpo
 
 Source: 
 - AIFA: www.aifa.gov.it
-- Data:www.aifa.gov.it/spesa-e-consumo-relativi-al-flusso-della-farmaceutica-convenzionata-e-degli-acquisti-diretti
+- Data: www.aifa.gov.it/spesa-e-consumo-relativi-al-flusso-della-farmaceutica-convenzionata-e-degli-acquisti-diretti
 
 ## License
 
